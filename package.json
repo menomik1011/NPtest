@@ -1,0 +1,16 @@
+{
+  "name": "trd-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "patch-package"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "patch-package": "^6.4.7",
+    "react-native-chatbot": "0.0.1-alpha.12"
+  }
+}
